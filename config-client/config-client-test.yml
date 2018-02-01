@@ -1,2 +1,3 @@
-profile=test
-file-test=test
+profile: test
+file-test: test
+config-client: test

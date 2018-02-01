@@ -1,2 +1,4 @@
 profile: prod
 file-test: prod
+config-client: prod
+
